@@ -1,0 +1,27 @@
+<pre class='metadata'>
+	Title: Trying Bikeshed for Kidaptive
+	Status: ED
+	ED: http://
+	Shortname: kid-bike-test
+	Level: 1
+	Editor: Larissa Co
+	Abstract: A simple document to try out the various features of bikeshed to see if it makes sense for what Kidaptive needs.
+	Markup Shorthands: markdown yes
+</pre>
+
+What do we need {#needs}
+===============
+
+The Learning Team and the Engineering Team need to have consistent documentation to help us deliver on the promise of ALP.
+
+## Current issues
+1. LT and Engineers use different programming languages (e.g. R vs. Java).
+2. Although we have conversations about requirements, they aren't structured in such a way that they make sure we are thoroughly defining everything that needs to be agreed upon.
+3. There is no single source of truth for documentation right now.
+
+## Pitfalls to avoid
+
+
+
+
+
